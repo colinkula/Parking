@@ -1,1 +1,1 @@
-# View the parking report pdf for an in depth desccription of the program
+# View the parking report pdf for a desccription and instructions on how to use the program.

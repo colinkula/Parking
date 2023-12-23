@@ -12,7 +12,6 @@ import java.util.Scanner;
  * 
  * @author ColinKula
  */
-
 public class User implements Manageable {
         
     /**
